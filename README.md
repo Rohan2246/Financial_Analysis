@@ -68,4 +68,4 @@ Specify the license under which your project is distributed. Make sure it aligns
 
 Feel free to adapt this template to your specific financial analysis project, replacing the placeholders with your project-specific information. Markdown is a suitable format for creating a well-structured README.md file on GitHub.
 
-![image](https://github.com/Rohan2246/Financial_Analysis/assets/143319302/d0ba4a6e-8778-4af2-92c9-2d6ac0acd7cf)
+![image](https://github.com/Rohan2246/Financial_Analysis/assets/143319302/ecef9246-1566-4950-bfd0-0720586ce08d)
